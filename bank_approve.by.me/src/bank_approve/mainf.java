@@ -23,12 +23,13 @@ public mainf() {
 }
 
 public static String k;
-private  boolean c=false;
+private  boolean c=false; 
 private  boolean Do=false;
 	      
 public static void main(String args[]) { 
 	                 Scanner h=new Scanner(System.in);
 	                 System.out.println("enter ur application request----");
+	                 System.out.println("typeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
 		             String t=h.nextLine();
 		             info f=new mainf(t);
 		             f.aplication(t);
