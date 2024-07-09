@@ -7,6 +7,7 @@ public class officer_approvel {
 	     if(f.deputyapprove()==true)
 	    {
 		System.out.println(mainf.k+" is authorised by officer");
+		System.out.println("okay");
 		
         
 		}else 

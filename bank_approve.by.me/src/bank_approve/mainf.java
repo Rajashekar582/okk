@@ -28,6 +28,7 @@ private  boolean Do=false;
 	      
 public static void main(String args[]) { 
 	                 Scanner h=new Scanner(System.in);
+					 System.out.println("welcome by my bank services");
 	                 System.out.println("enter ur application request----");
 	                 System.out.println("typeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
 		             String t=h.nextLine();
